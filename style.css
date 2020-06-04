@@ -1097,7 +1097,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#482cbf', end
     }
     100% {
         -webkit-box-shadow: 0 0 0 0 rgba(94, 136, 252, 0.6), 0 0 0 0 rgba(94, 136, 252, 0.6);
-        box-shadow: 0 0 0 0 rgba(94, 136, 252, 0.6), 0 0 0 0 rgba(94, 136, 252, 0.6);
+        box-shadow: 0 0 0 0 rgba(94, 136, 252, 0.6),rgba(94, 136, 252, 0.6);
     }
 }
 
@@ -1325,3 +1325,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#482cbf', end
 .form-double .box.last {
     float: right;
 }
+
